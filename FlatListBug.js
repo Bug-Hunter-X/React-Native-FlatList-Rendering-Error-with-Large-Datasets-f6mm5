@@ -1,0 +1,1 @@
+This error occurs when using the FlatList component in React Native with a large dataset.  It typically manifests as a blank screen or a screen that only partially renders the data. The error message itself might not be particularly informative, often just showing a blank screen or a generic rendering error.
